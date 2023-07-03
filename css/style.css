@@ -1,9 +1,3 @@
-/*
-  Theme Name: NewBiz
-  Theme URL: https://bootstrapmade.com/newbiz-bootstrap-business-template/
-  Author: BootstrapMade.com
-  License: https://bootstrapmade.com/license/
-*/
 
 /*--------------------------------------------------------------
 # General
@@ -141,7 +135,7 @@ h6 {
 }
 
 #header .logo h1 {
-  font-size: 70px;
+  font-size: 60px;
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -585,6 +579,7 @@ h6 {
 --------------------------------*/
 
 #services {
+  background: #E9E7E8  ;
   padding: 60px 0 40px 0;
   box-shadow: inset 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
 }
@@ -595,7 +590,7 @@ h6 {
   overflow: hidden;
   border-radius: 10px;
   margin: 0 10px 40px 10px;
-  background: #e3baff;
+  background: #fff;
   box-shadow: 0 10px 29px 0 rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease-in-out;
 }
