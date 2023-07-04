@@ -6,7 +6,7 @@
 body {
   background: #fdfdfd;
   color: #444;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'IBM Plex Mono', monospace;
 }
 
 a {
@@ -33,7 +33,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Encode Sans', sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
@@ -1181,7 +1181,7 @@ h6 {
     width: 100%;
   }
 
-  #testimonials .testimonial-item {
+/*  #testimonials .testimonial-item {
     text-align: center;
   }
 
@@ -1195,7 +1195,7 @@ h6 {
   #testimonials .testimonial-item p {
     margin-left: 0;
   }
-}
+}*/
 
 @media (max-width: 574px) {
   #intro {
