@@ -119,5 +119,13 @@
     items: 1
   });
 
+  //Mensaje de alerta, como envio del formulario
+
+  window.addEventListener("load", function(){
+this.document.getElementById("Alerta").addEventListener("click", function() {
+alert("FORMULARIO ENVIADO. En breve nos estaremos comunicando con usted, GRACIAS POR ELEGIRNOS!!!");
+})
+})
+
 })(jQuery);
 
